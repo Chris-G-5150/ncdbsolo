@@ -1,2 +1,0 @@
-# ncdbsolo
-NC DB SOLO
